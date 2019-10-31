@@ -6,7 +6,7 @@ Bypass CORS issues in local development
 
 ```
 go install github.com/nwjlyons/corsproxy
-``
+```
 
 ## Example
 
